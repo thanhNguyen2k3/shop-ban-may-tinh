@@ -140,6 +140,7 @@ span + .cart-title {
     top: 60px;
     padding: 16px;
     border-radius: 8px;
+    z-index: 1;
 }
 
 .cart-list::before {

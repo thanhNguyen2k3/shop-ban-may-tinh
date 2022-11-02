@@ -143,7 +143,6 @@
                                 </div>
 
                             </div>
-
                             <button class="view-cart">Xem giỏ hàng</button>
                         </div>
                     </div>
