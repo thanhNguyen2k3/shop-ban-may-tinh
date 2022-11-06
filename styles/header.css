@@ -37,6 +37,16 @@
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
 }
 
+.header-box.active {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: var(--header-height-action);
+    background-color: #fff;
+    z-index: 99;
+}
+
 .header-action {
     width: var(--header-width);
     height: var(--header-height-action);

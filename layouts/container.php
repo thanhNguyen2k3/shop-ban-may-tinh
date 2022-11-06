@@ -98,28 +98,28 @@
                     <img class="tab-img" src="https://lh3.googleusercontent.com/AX-KHFfzxH_B02K6xkajelNx-PI50PeI-ymr59HOF6PZO1CpZv_rEbIQIg7FbBHlwBAXu0iqw0be8htjbee-H-LG5lBGLyaCxQ=rw-w1920" alt="">
                     <div class="inner-tab">
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lmBQMw1c4H8DEmCWzj9E5oVRxNTK1zrONpxohoCr6m_nDYQmVc9nAhOcI0oHxY5XjbJ9j74gccj07A3oJLwp5bbgDNwnEKBD=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
                         </div>
 
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lmBQMw1c4H8DEmCWzj9E5oVRxNTK1zrONpxohoCr6m_nDYQmVc9nAhOcI0oHxY5XjbJ9j74gccj07A3oJLwp5bbgDNwnEKBD=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
                         </div>
 
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lmBQMw1c4H8DEmCWzj9E5oVRxNTK1zrONpxohoCr6m_nDYQmVc9nAhOcI0oHxY5XjbJ9j74gccj07A3oJLwp5bbgDNwnEKBD=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
                         </div>
 
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lmBQMw1c4H8DEmCWzj9E5oVRxNTK1zrONpxohoCr6m_nDYQmVc9nAhOcI0oHxY5XjbJ9j74gccj07A3oJLwp5bbgDNwnEKBD=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
@@ -140,28 +140,28 @@
                     <img class="tab-img" src="https://lh3.googleusercontent.com/d640pEeZS6pm92HOA5KFip2gho4wIBik-S81txeUo95_Z_wjNVuc3S7wLU1DHT8dges5sw9c5tFztmSGUa4-Seq0g2Y_RQo=rw-w1200" alt="">
                     <div class="inner-tab">
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lEwFIR76oQULHedWQg-X5MOUvHPe81POuvuW1UOxphbkC_qZgvqDJF3ACNrKwgH54JDej-1qGvjUaYylU6vLICUi2XBd4MU=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
                         </div>
 
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lEwFIR76oQULHedWQg-X5MOUvHPe81POuvuW1UOxphbkC_qZgvqDJF3ACNrKwgH54JDej-1qGvjUaYylU6vLICUi2XBd4MU=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
                         </div>
 
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lEwFIR76oQULHedWQg-X5MOUvHPe81POuvuW1UOxphbkC_qZgvqDJF3ACNrKwgH54JDej-1qGvjUaYylU6vLICUi2XBd4MU=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>
                         </div>
 
                         <div class="inner-item">
-                            <img class="inner-img" src="https://lh3.googleusercontent.com/4bZDdJBhtkmOgCXyD6rxBzwT7ei6JJ5U768dnX1I1d_5riZbWlu9_1Lg9HS2ZxEX26zcqQTIJ1XVZu_GsIjNNQO6txuBbRk-gQ=w230-rw" alt="">
+                            <img class="inner-img" src="https://lh3.googleusercontent.com/lEwFIR76oQULHedWQg-X5MOUvHPe81POuvuW1UOxphbkC_qZgvqDJF3ACNrKwgH54JDej-1qGvjUaYylU6vLICUi2XBd4MU=w230-rw" alt="">
                             <p class="inner-name">Màn hình LCD VIEWSONIC VX2718-2KPC-MHD (2560 x 1440/VA/165Hz/1 ms)</p>
                             <p class="inner-price">5.690.000 <span>đ</span></p>
                             <p class="sale"><del>7.600.000 <span>đ</span></del> <span class="sold">-25.13%</span> </p>

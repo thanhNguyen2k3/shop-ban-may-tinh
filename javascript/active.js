@@ -15,7 +15,6 @@ var indexActive = (act) => {
     tabActive[act].classList.add('active');
     tabBanner[act].classList.add('active');
 
-    console.log(tabBanner[act]);
 }
 
 
